@@ -66,7 +66,7 @@ Please be so kind as to give us feedback on the course (5 min) using this [**sur
 03:15 PM - 03:30 PM: Wrap up<br>
 
 ### Examination
-The course grade will be determined based on the quality of a project pitch at the end of the course and a two-page research paper submitted after the course. The paper communicates an analysis applying large language models to a personal research question, including all parts of a traditional research paper (introduction, method, results, and discussion). The research paper can be based on the examples during the course. The research paper must be submitted via mail to Zak (zhussain at unibas.ch) and Dirk (wulff at mpib-berlin.mpg.de) by **Feb 6th**. To enroll for the research paper send us the slides of your project sketch presentation via mail immediately after the conclusion of the course.      
+The course grade will be determined based on the quality of a project pitch at the end of the course and a two-page research paper submitted after the course. The paper communicates an analysis applying large language models to a personal research question, including all parts of a traditional research paper (introduction, method, results, and discussion). The research paper can be based on the examples during the course. The research paper must be submitted via mail to Zak (zhussain at unibas.ch) and Dirk (wulff at mpib-berlin.mpg.de) by **July 17th**. To enroll for the research paper send us the slides of your project sketch presentation via mail immediately after the conclusion of the course.      
 
 ### Resources
 <a href="https://doi.org/10.3758/s13428-024-02455-8">Hussain, Binz, Mata, & Wulff (2024). A tutorial on open-source large language models for behavioral science. *Behavior Research Methods*, 1-24.
