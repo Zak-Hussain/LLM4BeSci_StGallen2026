@@ -1,2 +1,3 @@
 - Check API and day_4b
 - day 5a keywords no longer outputed
+- double check all markdown correctly describes change to generation arguments api
